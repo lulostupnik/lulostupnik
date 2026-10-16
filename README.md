@@ -16,6 +16,11 @@ AI Engineer @ Loligo · Computer Engineering (5-yr engineering degree) @ ITBA ·
 | [**softmax**](https://github.com/lulostupnik/softmax) | Custom RISC-V instruction + functional unit in gem5 to accelerate int8 Softmax for Transformers on edge devices. PoliMi research project. | 21.6–35.7 % faster · graded 30/30 |
 | [**TP2_SO**](https://github.com/lulostupnik/TP2_SO) | Preemptive x86-64 kernel from scratch: asm context switch, priority scheduler, buddy allocator, semaphores, pipes, shell. | ~7.2k lines of C/NASM · 69 % of commits |
 
+<p align="center">
+  <img src="assets/estacionai.jpg" width="720" alt="EstacionAI: YOLO segmentation of parked cars and the free gaps on the curb, measured in meters">
+  <br><sub><b>EstacionAI</b> live: it segments the parked cars, measures the free gaps on the curb (1.8 m and 1.7 m) and decides whether a 4.5 m car fits. Plates blurred.</sub>
+</p>
+
 <details>
 <summary><b>More</b></summary>
 
