@@ -17,8 +17,8 @@ AI Engineer @ Loligo · Computer Engineering (5-yr engineering degree) @ ITBA ·
 | [**TP2_SO**](https://github.com/lulostupnik/TP2_SO) | Preemptive x86-64 kernel from scratch: asm context switch, priority scheduler, buddy allocator, semaphores, pipes, shell. | ~7.2k lines of C/NASM · team of 3 |
 
 <p align="center">
-  <img src="assets/estacionai.jpg" width="720" alt="EstacionAI: YOLO segmentation of parked cars and the free gaps on the curb, measured in meters">
-  <br><sub><b>EstacionAI</b> live: it segments the parked cars, measures the free gaps on the curb (1.8 m and 1.7 m) and decides whether a 4.5 m car fits. Plates blurred.</sub>
+  <img src="assets/estacionai.jpg" width="720" alt="EstacionAI: YOLO segmentation of the street and the free gaps on the curb, measured in meters">
+  <br><sub><b>EstacionAI</b> live: it segments every vehicle, measures the parked car (4.3 m) and the free gaps on the curb (2.1 m and 2.3 m). Image by Lorenzo; plates blurred.</sub>
 </p>
 
 <details>
