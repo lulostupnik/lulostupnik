@@ -15,6 +15,7 @@ AI Engineer @ Loligo · Computer Engineering (5-yr engineering degree) @ ITBA ·
 | **autonomous-devteam** 🔒 | A team of Claude Code agents (Product → Dev → QA → Reviewer) that works overnight on a real product in development, behind hard guardrails. | ~95 commits and 10 approved PRs in its first week; no credentials, a human merges every change |
 | [**softmax**](https://github.com/lulostupnik/softmax) | Custom RISC-V instruction + functional unit in gem5 to accelerate int8 Softmax for Transformers on edge devices. PoliMi research project. | 21.6–35.7 % faster · graded 30/30 |
 | [**TP2_SO**](https://github.com/lulostupnik/TP2_SO) | Preemptive x86-64 kernel from scratch: asm context switch, priority scheduler, buddy allocator, semaphores, pipes, shell. | ~7.2k lines of C/NASM · team of 3 |
+| [**gotogether**](https://github.com/lulostupnik/gotogether) | Web app to discover and organize events and trips among university students: REST API (Spring, Jersey, Hibernate, Spring Security) and a React SPA. | ITBA web applications course · team of 5 |
 
 <p align="center">
   <img src="assets/estacionai.jpg" width="720" alt="EstacionAI: YOLO segmentation of the street and the free gaps on the curb, measured in meters">
